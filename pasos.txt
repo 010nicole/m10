@@ -1,0 +1,6 @@
+1. INICIAR EL REPOSITORIO
+git init
+2. CAMBIAR SI ES QUE NO ESTOY EN LA RAMA MAIN
+git branch -M main
+
+git remote add origin https://github.com/010nicole/m10.git
